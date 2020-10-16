@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Industrial/Industrial10x20.ac -71.6013543 -30.304773 23.02 48
+OBJECT_SHARED Models/Industrial/Industrial10x20.ac -71.6012061 -30.3048886 23.13 48
+OBJECT_SHARED Models/Industrial/Industrial10x20.ac -71.6009198 -30.305124 23.43 48
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -71.6019634 -30.3044051 23.25 0
+OBJECT_SHARED Models/Trees/coniferous-tree3.xml -71.6013356 -30.3046845 22.37 30.2
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.6018238 -30.3046071 23.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.6017436 -30.304304 22.45 0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml -71.6012759 -30.3042666 21.29 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -71.6019765 -30.3043313 23.04 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml -71.6017724 -30.3046662 24.12 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -71.6010394 -30.3053433 24.33 0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -71.6016629 -30.3048899 24.13 0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -71.6015367 -30.3044856 22.27 0
+OBJECT_SHARED Models/Trees/platanus_hispanica8m.xml -71.6012308 -30.3047574 22.4 0
+OBJECT_SHARED Models/Trees/Eucalipto10m.xml -71.6013322 -30.3048867 23.66 0
+OBJECT_SHARED Models/Trees/Eucalipto12m.xml -71.600109 -30.3047229 19.31 0
